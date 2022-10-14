@@ -1,5 +1,7 @@
 # TEL-RAN_QA
 
+<<<<<<< HEAD
+
 - [homework 13.10.2022](https://docs.google.com/spreadsheets/d/1w89JQ5H_cup4omP__KEcL1exu1PLGtr-JDGHU9UHQlE/edit?usp=sharing) - _Test cases_
 
 ===========================================
@@ -8,6 +10,4 @@
 
 ===========================================
 
-- [homework 04.10.2022](https://docs.google.com/spreadsheets/d/1Ai-VRgtAKV_HVXu_W3JLxj9jFJYKBbVi-7C6XunFQgI/edit#gid=0) - _Bug report_
-
-===========================================
+- # [homework 04.10.2022](https://docs.google.com/spreadsheets/d/1Ai-VRgtAKV_HVXu_W3JLxj9jFJYKBbVi-7C6XunFQgI/edit?usp=sharing) - _Bug report_
