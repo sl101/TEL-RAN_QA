@@ -1,7 +1,5 @@
 # TEL-RAN_QA
 
-<<<<<<< HEAD
-
 - [homework 13.10.2022](https://docs.google.com/spreadsheets/d/1w89JQ5H_cup4omP__KEcL1exu1PLGtr-JDGHU9UHQlE/edit?usp=sharing) - _Test cases_
 
 ===========================================
