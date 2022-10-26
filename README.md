@@ -1,6 +1,6 @@
 # TEL-RAN_QA
 
-- # [homework 25.10.2022](https://sl101.github.io/TEL-RAN_QA/homeworks/hw_25_10) - _Testrail_
+- # [homework 25.10.2022](https://sl101.github.io/TEL-RAN_QA/homeworks/hw_25_10/hw_25_10.png) - _Testrail_
 
 ===========================================
 
