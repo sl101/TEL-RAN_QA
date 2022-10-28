@@ -1,5 +1,9 @@
 # TEL-RAN_QA
 
+- # [homework 28.10.2022](https://docs.google.com/forms/d/e/1FAIpQLSdD-aeAAuDQMfLOIvD3y9XDoKLf6pxFg-BWfJK0iC4A9azmaA/viewscore?viewscore=AE0zAgA9I_bZdLRQn8kbnIh8AKkya5zYbf6DZLciT-yhneWzUBYwblRf1XAaUmjmqyfgZJs) - _Equivalence Partitioning_
+
+===========================================
+
 - # [homework 25.10.2022](https://sl101.github.io/TEL-RAN_QA/homeworks/hw_25_10/hw_25_10.png) - _Testrail_
 
 ===========================================
