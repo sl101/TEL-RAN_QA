@@ -4,12 +4,12 @@
 
 ===========================================
 
-- # [homework 25.10.2022](https://sl101.github.io/TEL-RAN_QA/homeworks/hw_25_10/hw_25_10.png) - _Testrail_
+- [homework 25.10.2022](https://sl101.github.io/TEL-RAN_QA/homeworks/hw_25_10/hw_25_10.png) - _Testrail_
 
 ===========================================
 
 
-- # [homework 13.10.2022](https://docs.google.com/spreadsheets/d/1w89JQ5H_cup4omP__KEcL1exu1PLGtr-JDGHU9UHQlE/edit?usp=sharing) - _Test cases_
+- [homework 13.10.2022](https://docs.google.com/spreadsheets/d/1w89JQ5H_cup4omP__KEcL1exu1PLGtr-JDGHU9UHQlE/edit?usp=sharing) - _Test cases_
 
 ===========================================
 
