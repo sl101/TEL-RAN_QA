@@ -1,5 +1,9 @@
 # TEL-RAN_QA
 
+- # [homework 05.11.2022](https://docs.google.com/spreadsheets/d/1-2oBHobCPjcmpEXY0hcNIBChxVckuvPqvJwre02sHbw/edit?usp=sharing) - _DecisionTablesExercise_
+
+===========================================
+
 - # [homework 01.11.2022](https://docs.google.com/spreadsheets/d/1Hlaz9Wg26Jy1lGeyJAvBr_y49h8z9_dI/edit?usp=sharing&ouid=109926303140471104087&rtpof=true&sd=true) - _Pairwise testing_
 
 ===========================================
