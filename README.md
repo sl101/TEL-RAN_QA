@@ -4,11 +4,11 @@
 
 ===========================================
 
-- # [homework 01.11.2022](https://docs.google.com/spreadsheets/d/1Hlaz9Wg26Jy1lGeyJAvBr_y49h8z9_dI/edit?usp=sharing&ouid=109926303140471104087&rtpof=true&sd=true) - _Pairwise testing_
+- [homework 01.11.2022](https://docs.google.com/spreadsheets/d/1Hlaz9Wg26Jy1lGeyJAvBr_y49h8z9_dI/edit?usp=sharing&ouid=109926303140471104087&rtpof=true&sd=true) - _Pairwise testing_
 
 ===========================================
 
-- # [homework 28.10.2022](https://docs.google.com/forms/d/e/1FAIpQLSdD-aeAAuDQMfLOIvD3y9XDoKLf6pxFg-BWfJK0iC4A9azmaA/viewscore?viewscore=AE0zAgA9I_bZdLRQn8kbnIh8AKkya5zYbf6DZLciT-yhneWzUBYwblRf1XAaUmjmqyfgZJs) - _Equivalence Partitioning_
+- # [homework 27.10.2022](https://docs.google.com/forms/d/e/1FAIpQLSdD-aeAAuDQMfLOIvD3y9XDoKLf6pxFg-BWfJK0iC4A9azmaA/viewscore?viewscore=AE0zAgA9I_bZdLRQn8kbnIh8AKkya5zYbf6DZLciT-yhneWzUBYwblRf1XAaUmjmqyfgZJs) - _Equivalence Partitioning_
 
 ===========================================
 
