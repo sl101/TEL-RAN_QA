@@ -1,6 +1,6 @@
 # TEL-RAN_QA
 
-- # [homework 09.11.2022](https://sl101.github.io/TEL-RAN_QA/homeworks/hw_09_11) - _State-transition diagram_
+- # [homework 09.11.2022](https://github.com/sl101/TEL-RAN_QA/tree/main/homeworks/hw_09_11/state-transition_diagram.html) - _State-transition diagram_
 
 ===========================================
 
@@ -12,7 +12,7 @@
 
 ===========================================
 
-- # [homework 27.10.2022](https://docs.google.com/forms/d/e/1FAIpQLSdD-aeAAuDQMfLOIvD3y9XDoKLf6pxFg-BWfJK0iC4A9azmaA/viewscore?viewscore=AE0zAgA9I_bZdLRQn8kbnIh8AKkya5zYbf6DZLciT-yhneWzUBYwblRf1XAaUmjmqyfgZJs) - _Equivalence Partitioning_
+- [homework 27.10.2022](https://docs.google.com/forms/d/e/1FAIpQLSdD-aeAAuDQMfLOIvD3y9XDoKLf6pxFg-BWfJK0iC4A9azmaA/viewscore?viewscore=AE0zAgA9I_bZdLRQn8kbnIh8AKkya5zYbf6DZLciT-yhneWzUBYwblRf1XAaUmjmqyfgZJs) - _Equivalence Partitioning_
 
 ===========================================
 
