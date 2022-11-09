@@ -1,6 +1,6 @@
 # TEL-RAN_QA
 
-- # [homework 09.11.2022](https://github.com/sl101/TEL-RAN_QA/tree/main/homeworks/hw_09_11/state-transition_diagram.html) - _State-transition diagram_
+- # [homework 09.11.2022](https://github.com/sl101/TEL-RAN_QA/tree/main/homeworks/hw_09_11/) - _State-transition diagram_
 
 ===========================================
 
