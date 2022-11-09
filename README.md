@@ -1,5 +1,9 @@
 # TEL-RAN_QA
 
+- # [homework 09.11.2022](https://sl101.github.io/TEL-RAN_QA/homeworks/hw_09_11) - _State-transition diagram_
+
+===========================================
+
 - # [homework 05.11.2022](https://docs.google.com/spreadsheets/d/1-2oBHobCPjcmpEXY0hcNIBChxVckuvPqvJwre02sHbw/edit?usp=sharing) - _DecisionTablesExercise_
 
 ===========================================
