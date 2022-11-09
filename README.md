@@ -4,7 +4,7 @@
 
 ===========================================
 
-- # [homework 05.11.2022](https://docs.google.com/spreadsheets/d/1-2oBHobCPjcmpEXY0hcNIBChxVckuvPqvJwre02sHbw/edit?usp=sharing) - _DecisionTablesExercise_
+- [homework 05.11.2022](https://docs.google.com/spreadsheets/d/1-2oBHobCPjcmpEXY0hcNIBChxVckuvPqvJwre02sHbw/edit?usp=sharing) - _DecisionTablesExercise_
 
 ===========================================
 
